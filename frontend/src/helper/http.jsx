@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const http = axios.create({
-  baseURL: "http://localhost:8000",
+  baseURL: process.env.REACT_APP_API_URL,
   headers: {
     "Content-Type": "application/json",
   },
@@ -10,7 +10,6 @@ const http = axios.create({
 http.interceptors.request.use(
   (config) => {
     const userToken = localStorage.getItem("userToken");
-    console.log(userToken);
     if (config.url === "login") {
       return config;
     }
