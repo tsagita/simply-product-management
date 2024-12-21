@@ -33,8 +33,12 @@ A simple product management application using Laravel and React.
   cd frontend
   npm install
   npm run start
-  ```
+  ```![Screenshot from 2024-12-21 13-19-36](https://github.com/user-attachments/assets/b68b5be1-9635-4435-9667-61cd560d5aa4)
+
 ### Preview
-![Screenshot from 2024-12-21 12-55-20](https://github.com/user-attachments/assets/342c38a0-3c94-49f0-a17d-77178fde86bd)
-![Screenshot from 2024-12-21 12-54-58](https://github.com/user-attachments/assets/0faa4a4b-8c6d-483b-9ede-971cb16aa501)
-![Screenshot from 2024-12-21 13-19-36](https://github.com/user-attachments/assets/e92404a9-ecf1-4107-a5f7-7cf55cbe10a1)
+![Screenshot from 2024-12-21 12-55-20](https://github.com/user-attachments/assets/186b6673-906f-47a5-bc34-4ff7c580bc0f)
+![Screenshot from 2024-12-21 12-54-58](https://github.com/user-attachments/assets/21e8b09e-96b3-4eaa-8b09-1b1b4e9f0f9e)
+![Screenshot from 2024-12-21 13-19-36](https://github.com/user-attachments/assets/0ac67803-cab0-412f-90b6-16ddd221f8fb)
+
+
+
